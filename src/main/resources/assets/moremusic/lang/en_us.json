@@ -1,5 +1,5 @@
 {
-  "text.autoconfig.moremusic.title": "More Music Config",
+  "text.autoconfig.moremusic.title": "More Music Config (Make sure to restart for changes to take effect!)",
   "text.autoconfig.moremusic.option.menuDelays": "Main Menu Music Delays",
   "text.autoconfig.moremusic.option.normalGameplayDelays": "Normal Gameplay Delays",
   "text.autoconfig.moremusic.option.creativeGameplayDelays": "Creative Mode Gameplay Delays",
@@ -11,5 +11,13 @@
   "text.autoconfig.moremusic.option.creativeGameplayDelays.minDelay": "Minimum Delay",
   "text.autoconfig.moremusic.option.creativeGameplayDelays.maxDelay": "Maximum Delay",
   "text.autoconfig.moremusic.option.endGameplayDelays.minDelay": "Minimum Delay",
-  "text.autoconfig.moremusic.option.endGameplayDelays.maxDelay": "Maximum Delay"
+  "text.autoconfig.moremusic.option.endGameplayDelays.maxDelay": "Maximum Delay",
+  "text.autoconfig.moremusic.option.menuDelays.minDelay.@Tooltip": "All delay times are in ticks",
+  "text.autoconfig.moremusic.option.menuDelays.maxDelay.@Tooltip": "All delay times are in ticks",
+  "text.autoconfig.moremusic.option.normalGameplayDelays.minDelay.@Tooltip": "All delay times are in ticks",
+  "text.autoconfig.moremusic.option.normalGameplayDelays.maxDelay.@Tooltip": "All delay times are in ticks",
+  "text.autoconfig.moremusic.option.creativeGameplayDelays.minDelay.@Tooltip": "All delay times are in ticks",
+  "text.autoconfig.moremusic.option.creativeGameplayDelays.maxDelay.@Tooltip": "All delay times are in ticks",
+  "text.autoconfig.moremusic.option.endGameplayDelays.minDelay.@Tooltip": "All delay times are in ticks",
+  "text.autoconfig.moremusic.option.endGameplayDelays.maxDelay.@Tooltip": "All delay times are in ticks"
 }
