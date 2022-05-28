@@ -4,9 +4,9 @@
   "package": "dev.arthomnix.moremusic.mixin",
   "compatibilityLevel": "JAVA_17",
   "mixins": [
-    "MusicTypeMixin"
   ],
   "client": [
+    "MusicTypeMixin"
   ],
   "injectors": {
     "defaultRequire": 1
