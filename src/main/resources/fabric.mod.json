@@ -5,9 +5,18 @@
   "name": "More Music",
   "description": "Make Minecraft's music play the whole time",
   "authors": [
-    "arthomnix"
+    {
+      "name": "arthomnix",
+      "contact": {
+        "homepage": "https://github.com/arthomnix"
+      }
+    }
   ],
-  "contact": {},
+  "contact": {
+    "homepage": "https://modrinth.com/mod/moremusic",
+    "issues": "https://github.com/arthomnix/moremusic/issues",
+    "sources": "https://github.com/arthomnix/moremusic"
+  },
   "license": "MIT",
   "icon": "assets/moremusic/icon.png",
   "environment": "*",
