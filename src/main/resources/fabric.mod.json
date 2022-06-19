@@ -33,6 +33,6 @@
     "cloth-config": ">=7.0.65"
   },
   "suggests": {
-    "modmenu": ">=4.0.0-beta.4"
+    "modmenu": ">=4.0.0"
   }
 }
