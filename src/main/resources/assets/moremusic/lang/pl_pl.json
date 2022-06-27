@@ -1,0 +1,23 @@
+{
+  "text.autoconfig.moremusic.title": "More Music Config (Upewnij się, że uruchomiłeś ponownie gre, aby zmiany zaczęły obowiązywać!)",
+  "text.autoconfig.moremusic.option.menuDelays": "Menu Opóźnienia Dźwięku",
+  "text.autoconfig.moremusic.option.normalGameplayDelays": "Normalne Opóźnienia w Rozgrywce",
+  "text.autoconfig.moremusic.option.creativeGameplayDelays": "Opóźnienia w Rozgrywce Trybu Kreatywnego",
+  "text.autoconfig.moremusic.option.endGameplayDelays": "Opóźnienia w Rozgrywce w Wymiarze Endu",
+  "text.autoconfig.moremusic.option.menuDelays.minDelay": "Minimalne Opóźnienie",
+  "text.autoconfig.moremusic.option.menuDelays.maxDelay": "Maksymalne Opóźnienie",
+  "text.autoconfig.moremusic.option.normalGameplayDelays.minDelay": "Minimalne Opóźnienie",
+  "text.autoconfig.moremusic.option.normalGameplayDelays.maxDelay": "Maksymalne Opóźnienie",
+  "text.autoconfig.moremusic.option.creativeGameplayDelays.minDelay": "Minimalne Opóźnienie",
+  "text.autoconfig.moremusic.option.creativeGameplayDelays.maxDelay": "Maksymalne Opóźnienie",
+  "text.autoconfig.moremusic.option.endGameplayDelays.minDelay": "Minimalne Opóźnienie",
+  "text.autoconfig.moremusic.option.endGameplayDelays.maxDelay": "Maksymalne Opóźnienie",
+  "text.autoconfig.moremusic.option.menuDelays.minDelay.@Tooltip": "Wszystkie czasy opóźnienia podawane są w tikach",
+  "text.autoconfig.moremusic.option.menuDelays.maxDelay.@Tooltip": "Wszystkie czasy opóźnienia podawane są w tikach",
+  "text.autoconfig.moremusic.option.normalGameplayDelays.minDelay.@Tooltip": "Wszystkie czasy opóźnienia podawane są w tikach",
+  "text.autoconfig.moremusic.option.normalGameplayDelays.maxDelay.@Tooltip": "Wszystkie czasy opóźnienia podawane są w tikach",
+  "text.autoconfig.moremusic.option.creativeGameplayDelays.minDelay.@Tooltip": "Wszystkie czasy opóźnienia podawane są w tikach",
+  "text.autoconfig.moremusic.option.creativeGameplayDelays.maxDelay.@Tooltip": "Wszystkie czasy opóźnienia podawane są w tikach",
+  "text.autoconfig.moremusic.option.endGameplayDelays.minDelay.@Tooltip": "Wszystkie czasy opóźnienia podawane są w tikach",
+  "text.autoconfig.moremusic.option.endGameplayDelays.maxDelay.@Tooltip": "Wszystkie czasy opóźnienia podawane są w tikach"
+}
