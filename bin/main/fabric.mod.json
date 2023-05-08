@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 1,
+  "id": "moremusic",
+  "version": "${version}",
+  "name": "More Music",
+  "description": "Make Minecraft's music play the whole time",
+  "authors": [
+    {
+      "name": "arthomnix",
+      "contact": {
+        "homepage": "https://github.com/arthomnix"
+      }
+    }
+  ],
+  "contact": {
+    "homepage": "https://modrinth.com/mod/moremusic",
+    "issues": "https://github.com/arthomnix/moremusic/issues",
+    "sources": "https://github.com/arthomnix/moremusic"
+  },
+  "license": "MIT",
+  "icon": "assets/moremusic/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "preLaunch": ["dev.arthomnix.moremusic.MoreMusicPreLaunchEntryPoint"],
+    "modmenu": ["dev.arthomnix.moremusic.config.MoreMusicModMenuIntegration"]
+  },
+  "mixins": [
+    "moremusic.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.13.3",
+    "minecraft": ">=1.19 <1.20",
+    "cloth-config": ">=7.0.65"
+  },
+  "suggests": {
+    "modmenu": ">=4.0.0"
+  }
+}
