@@ -21,6 +21,7 @@
   "icon": "assets/moremusic/icon.png",
   "environment": "*",
   "entrypoints": {
+    "main": ["dev.arthomnix.moremusic.MoreMusic"],
     "preLaunch": ["dev.arthomnix.moremusic.MoreMusicPreLaunchEntryPoint"],
     "modmenu": ["dev.arthomnix.moremusic.config.MoreMusicModMenuIntegration"]
   },
@@ -29,6 +30,7 @@
   ],
   "depends": {
     "fabricloader": ">=0.14",
+    "fabric-api": "*",
     "minecraft": "1.20.1",
     "cloth-config": ">=11.1"
   },
