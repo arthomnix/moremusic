@@ -18,7 +18,7 @@ import org.spongepowered.asm.mixin.injection.Redirect;
 @Environment(EnvType.CLIENT)
 @Mixin(MusicSound.class)
 public class MusicSoundMixin {
-    @Redirect(method = "method_28128", at = @At(value = "INVOKE", target = "Lcom/mojang/datafixers/Products$P4;apply(Lcom/mojang/datafixers/kinds/Applicative;Lcom/mojang/datafixers/util/Function4;)Lcom/mojang/datafixers/kinds/App;"))
+    @Redirect(method = "method_28128", at = @At(value = "INVOKE", target = "Lcom/mojang/datafixers/Products$P4;apply(Lcom/mojang/datafixers/kinds/Applicative;Lcom/mojang/datafixers/util/Function4;)Lcom/mojang/datafixers/kinds/App;"), remap = false)
     private static App<RecordCodecBuilder.Mu<MusicSound>, MusicSound> modifyDatapackSoundDelays(
             Products.P4<RecordCodecBuilder.Mu<MusicSound>, RegistryEntry<SoundEvent>, Integer, Integer, Boolean> instance,
             Applicative<RecordCodecBuilder.Mu<MusicSound>, ? extends Applicative.Mu> applicative,
